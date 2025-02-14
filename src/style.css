@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-column: rgba(100, 60, 255, 0.09);
+  /* --color-column: #dbd1ed; */
+  --color-primaryBg: #f6f6f7;
+}
